@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saida</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🌱 I’m currently learning **Ruby, Javascript and React**
+- 🌱 I’m currently learning **Ruby, Javascript and React** !
 
-- 📫 How to reach me **murtazalisaida@gmail.com**
+- 📫 You can reach me at **murtazalisaida@gmail.com**
 
-- 📄 Know about my experiences [https://saidamurtazali.notion.site/Saida-Murtazali-CV-30bb5f32b910432e836d365d1dfc8550](https://saidamurtazali.notion.site/Saida-Murtazali-CV-30bb5f32b910432e836d365d1dfc8550)
+- 📄 My resume: [https://saidamurtazali.notion.site/Saida-Murtazali-CV-30bb5f32b910432e836d365d1dfc8550](https://saidamurtazali.notion.site/Saida-Murtazali-CV-30bb5f32b910432e836d365d1dfc8550)
 
 - ⚡ Fun fact **I was scared to launch Terminal because I thought it might crash my computer.**
 
