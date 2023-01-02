@@ -7,7 +7,7 @@
 
 - 📄 My resume: [https://saidamurtazali.notion.site/Saida-Murtazali-CV-30bb5f32b910432e836d365d1dfc8550](https://saidamurtazali.notion.site/Saida-Murtazali-CV-30bb5f32b910432e836d365d1dfc8550)
 
-- ⚡ Fun fact **I was scared to launch Terminal because I thought it might crash my computer.**
+- ⚡ Fun fact **I was scared to launch Terminal because I thought it might crash my computer😅.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
