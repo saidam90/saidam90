@@ -9,7 +9,7 @@ I'm currently learning JavaScript to create easy-to-use and beautiful web apps.
 
 🗣️  I can speak English, Russian, Azerbaijani, Japanese and Turkish
 
-🇯🇵  I love Japanese culture, anime and manga
+🇯🇵  I love anime and manga
 
 ---
 
