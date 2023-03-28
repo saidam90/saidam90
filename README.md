@@ -21,7 +21,7 @@ I'm currently learning JavaScript to create easy-to-use and beautiful web apps.
 
 ---
 
-## ✏️ Currently Leanring
+## ✏️ Currently Learning
 
 🖥️ **JavaScript**
 
