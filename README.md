@@ -7,10 +7,6 @@ I'm currently learning JavaScript to create easy-to-use and beautiful web apps.
 
 🌟  My portfolio: www.saidamurtazali.com
 
-🗣️  I can speak English, Russian, Azerbaijani, Japanese and Turkish
-
-🇯🇵  I love anime and manga
-
 ---
 
 ## 🔨 My Current Tech Stack
@@ -28,6 +24,10 @@ I'm currently learning JavaScript to create easy-to-use and beautiful web apps.
 ---
 
 ## 🥳 Let's Get Social
+
+🗣️  I can speak English, Russian, Azerbaijani, Japanese and Turkish
+
+🇯🇵  I love anime and manga
 
 <a href="https://www.linkedin.com/in/saida-murtazali/">
     <img 
