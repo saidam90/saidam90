@@ -27,8 +27,6 @@ I'm currently learning JavaScript to create easy-to-use and beautiful web apps.
 
 🗣️  I can speak English, Russian, Azerbaijani, Japanese and Turkish
 
-🇯🇵  I love anime and manga
-
 <a href="https://www.linkedin.com/in/saida-murtazali/">
     <img 
         src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
