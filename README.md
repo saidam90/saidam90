@@ -3,7 +3,7 @@
 # 👋🏼 Hey, I'm Saida
 
 I'm a software engineer with a love for frontend web development. 
-I'm currently learning JavaScript to create easy-to-use and beautiful web apps. 
+I'm currently learning JavaScript and React to create easy-to-use and beautiful web apps. 
 
 🌟  My portfolio: www.saidamurtazali.com
 
