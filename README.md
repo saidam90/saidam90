@@ -29,7 +29,7 @@ I'm currently learning JavaScript and React to create easy-to-use and beautiful 
 
 ---
 
-## 🥳 Let's Get Social
+## Let's Get Social
 
 🗣️  I can speak English, Russian, Azerbaijani, Japanese and Turkish
 
@@ -37,13 +37,6 @@ I'm currently learning JavaScript and React to create easy-to-use and beautiful 
     <img 
         src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="Linkedin Logo Badge"
-    >
-</a>
-
-<a href="https://instagram.com/msaida_m">
-    <img 
-        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        alt="Instagram Logo Badge"
     >
 </a>
 
