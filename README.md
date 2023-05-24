@@ -43,6 +43,7 @@ I'm currently learning JavaScript and React to create easy-to-use and beautiful 
 <br>
 <br \>
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=saidam90&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=saidam90)
 
