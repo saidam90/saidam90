@@ -18,7 +18,6 @@ I'm a software engineer, currently learning JavaScript and React to create easy-
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Postgresql Badge](https://img.shields.io/badge/Postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Postgresql Badge](https://img.shields.io/badge/Heroku-C9C3E6?style=for-the-badge&logo=heroku&logoColor=black)
 
 ---
 
