@@ -2,8 +2,7 @@
 
 # 👋🏼 Hey, I'm Saida
 
-I'm a software engineer with a love for frontend web development. 
-I'm currently learning JavaScript and React to create easy-to-use and beautiful web apps. 
+I'm a software engineer, currently learning JavaScript and React to create easy-to-use and beautiful web apps. 
 
 🌟  My portfolio: www.saidamurtazali.com
 
@@ -12,6 +11,7 @@ I'm currently learning JavaScript and React to create easy-to-use and beautiful 
 ## 🔨 My Current Tech Stack
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS Badge](https://img.shields.io/badge/TailwindCSS-05AFCD?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Ruby Badge](https://img.shields.io/badge/Rails-cc0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,7 +25,6 @@ I'm currently learning JavaScript and React to create easy-to-use and beautiful 
 ## ✏️ Currently Learning
 
 🖥️ **JavaScript**, **React**
-
 
 ---
 
