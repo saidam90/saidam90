@@ -23,7 +23,7 @@ I'm a software engineer, currently learning JavaScript and React to create easy-
 
 ## ✏️ Currently Learning
 
-🖥️ **JavaScript**, **React**
+🖥️ Full stack Open course (**JavaScript**, **React**, **Redux**, **Mongo DB**, **Node.js**, **GraphQL** and **TypeScript**).
 
 ---
 
