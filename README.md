@@ -2,7 +2,7 @@
 
 # 👋🏼 Hey, I'm Saida
 
-I'm a software engineer, currently learning JavaScript and React to create easy-to-use and beautiful web apps. 
+I'm a full-stack developer, currently learning JavaScript and React to create easy-to-use and beautiful web apps. 
 
 🌟  My portfolio: [www.saidamurtazali.netlify.app](https://saidamurtazali.netlify.app/)
 
