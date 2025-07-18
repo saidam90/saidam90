@@ -1,5 +1,3 @@
-![study](https://user-images.githubusercontent.com/74564476/226099268-2773c4ff-b8ce-4d8f-aa32-1e870ddc5b42.gif)
-
 # 👋🏼 Hey, I'm Saida
 
 I'm a front-end developer, currently learning JavaScript and React to create easy-to-use and beautiful web apps. 
