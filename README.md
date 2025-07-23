@@ -1,6 +1,4 @@
-# 👋🏼 Hey, I'm Saida
-
-I'm a front-end developer, currently learning JavaScript and React to create easy-to-use and beautiful web apps. 
+# 👋🏼 Hey, I'm Saida | Frontend Developer
 
 🌟  My portfolio: [www.saidamurtazali.netlify.app](https://saidamurtazali.netlify.app/)
 
