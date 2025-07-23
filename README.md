@@ -8,7 +8,9 @@ I'm a front-end developer, currently learning JavaScript and React to create eas
 
 ## 🔨 My Current Tech Stack
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux Badge](https://img.shields.io/badge/Redux-3498db?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS Badge](https://img.shields.io/badge/TailwindCSS-05AFCD?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Ruby Badge](https://img.shields.io/badge/Rails-cc0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
